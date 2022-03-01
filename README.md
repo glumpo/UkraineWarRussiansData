@@ -7,7 +7,7 @@ Build:
 go build -o searcher main.go 
 ```
 
-Or use prebuilt binaries (e. g. searcher.exe from repo)
+Or use prebuilt binaries (e. g. searcher_windows_x32.exe from repo)
 
 # How to use
 Run from directory with xlsx files
